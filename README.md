@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I am a biochemical engineering student. I've worked with enzyme expression, natural products and now I'm venturing into molecular modeling and equipment optimization in the chemical industry.
+
+In my spare time I study programming, in the areas of back-end and data science. I have two cats and a good collection of white wolf rpgs.
 
 <!--
 **gabrielaaferreira/gabrielaaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
